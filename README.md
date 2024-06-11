@@ -6,27 +6,12 @@
 
 ![fullstackhero webapi](https://raw.githubusercontent.com/fullstackhero/dotnet-webapi-boilerplate/main/media/fullstack-hero-dotnet-7-webapi-boilerplate-banner.png "fullstackhero webapi")
 
-## What's fullstackhero's .NET Web API Boilerplate?
+## hi everyone
 
-fullstackhero's .NET Web API Boilerplate is a starting point for your next `.NET 7 Clean Architecture Project` that incorporates the most essential packages and features your projects will ever need including out of the box Multi-Tenancy support. This project can save well over `200+ hours` of development time for your team.
-
-> As the name suggests, this is an API / Server Boilerplate. You can find other Client Boilerplates that consume this API under `@fullstackhero` handle.
-> - Find `Blazor WebAssembly Boilerplate` here - https://github.com/fullstackhero/blazor-wasm-boilerplate
+my name is dupé, 
 
 
 
-## YouTube Video - .NET Web API Boilerplate | FullStackHero - Getting Started
-
-`Watch the Getting started video here` : https://www.youtube.com/watch?v=a1mWRLQf9hY
-
-[![.NET Web API Boilerplate | FullStackHero - Getting Started](https://codewithmukesh.com/wp-content/uploads/2023/04/fullstackhero-youtube.png)](https://www.youtube.com/watch?v=a1mWRLQf9hY)
-
-
-## Goals
-
-The goal of this repository is to provide a complete and feature-rich starting point for any .NET Developer / Team to kick-start their next major project using .NET 7 Web API. This also serves the purpose of learning advanced concepts and implementations such as `Multitenancy, CQRS, Onion Architecture, Clean Coding standards, Cloud Deployments with Terraform to AWS, Docker Concepts, CICD Pipelines & Workflows` and so on.
-
-## Features
 
 - [x] Built on .NET 7.0
 - [x] Follows Clean Architecture Principles
