@@ -49,10 +49,10 @@
         .social {
             display: grid;
             grid-template-columns: repeat(3, 1fr); /* 3 colonnes */
-            grid-gap: 10px; /* Réduit l'espace entre les éléments */
+            grid-gap: 5px; /* Réduit l'espace entre les éléments */
             justify-content: center;
             align-items: center;
-            margin-bottom: 30px;
+            margin-bottom: 20px;
         }
 
         .social-link {
@@ -62,23 +62,23 @@
             justify-content: center;
             background-color: #f5f5f5;
             border-radius: 15px;
-            padding: 20px;
+            padding: 15px;
             transition: all 0.3s;
-            width: 100px;
-            height: 100px;
+            width: 80px;
+            height: 80px;
             cursor: pointer;
             box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
         }
 
         .social-link i {
-            font-size: 3rem;
+            font-size: 2rem;
             color: white; /* Icônes en blanc */
-            margin-bottom: 10px;
+            margin-bottom: 5px;
             transition: color 0.3s;
         }
 
         .social-link a {
-            font-size: 1rem;
+            font-size: 0.8rem;
             color: white;
             text-decoration: none;
             transition: color 0.3s;
@@ -96,13 +96,13 @@
         .slogan {
             font-size: 1.5rem;
             font-weight: bold;
-            margin-bottom: 30px;
+            margin-bottom: 20px;
         }
 
         /* Styles pour les coordonnées */
         .contact-info {
-            margin-top: 30px;
             text-align: center;
+            margin-bottom: 20px;
         }
 
         .contact-info p {
@@ -114,6 +114,18 @@
 
         .contact-info p i {
             margin-right: 5px;
+        }
+
+        /* Styles pour le footer */
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
         }
 
     </style>
@@ -136,8 +148,7 @@
                 <a href="https://x.com/consulting_Mo?t=p7VLVn2KT1RU1t6nOVjExw&s=09" target="_blank">Twitter</a>
             </div>
             <div class="social-link" style="background-color: #25d366;" onclick="window.location.href='https://wa.me/message/WZHC7CEMDMMXLXL1'">
-                <i
-class="fab fa-whatsapp"></i>
+                <i class="fab fa-whatsapp"></i>
                 <a href="https://wa.me/message/WZHC7CEMDMMXLXL1" target="_blank">WhatsApp</a>
             </div>
             <div class="social-link" style="background-color: #1877f2;" onclick="window.location.href='https://www.facebook.com/profile.php?id=100091956626632'">
@@ -162,6 +173,7 @@ class="fab fa-whatsapp"></i>
             <p><i class="fas fa-map-marker-alt"></i> Bureau: rue Moscou, Ibn sina, djibouti, Djibouti</p>
         </div>
     </div>
+  
 
 </body>
 </html>
