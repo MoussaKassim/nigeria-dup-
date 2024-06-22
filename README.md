@@ -48,7 +48,7 @@
         /* Styles pour les réseaux sociaux */
         .social {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); /* Utilisation de grid flexible */
+            grid-template-columns: repeat(3, 1fr); /* 3 colonnes */
             grid-gap: 10px; /* Réduit l'espace entre les éléments */
             justify-content: center;
             align-items: center;
@@ -137,7 +137,7 @@
             </div>
             <div class="social-link" style="background-color: #25d366;" onclick="window.location.href='https://wa.me/message/WZHC7CEMDMMXLXL1'">
                 <i
-                class="fab fa-whatsapp"></i>
+class="fab fa-whatsapp"></i>
                 <a href="https://wa.me/message/WZHC7CEMDMMXLXL1" target="_blank">WhatsApp</a>
             </div>
             <div class="social-link" style="background-color: #1877f2;" onclick="window.location.href='https://www.facebook.com/profile.php?id=100091956626632'">
